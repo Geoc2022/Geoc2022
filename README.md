@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋, I'm George!
+
+![CS + Math @ Brown University](https://img.shields.io/badge/CS%20%2B%20Math-@Brown%20University-blue?style=for-the-badge&labelColor=white&color=4e3629) 
+
+I'm a junior at Brown University studying Computer Science and Mathematics, with current interests in cryptography, deep learning, and formal proof verification.
+
+[![Email Badge](https://img.shields.io/badge/Email-ea4336?style=flat-square)](mailto:george_chemmala@brown.edu) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0474b3?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/george-c42/) 
 
 <!--
 **Geoc2022/Geoc2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
