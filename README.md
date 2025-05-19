@@ -1,4 +1,4 @@
-## Hi there 👋, I'm George!
+## Hi there 👋
 
 ![CS + Math @ Brown University](https://img.shields.io/badge/CS%20%2B%20Math-@Brown%20University-blue?style=for-the-badge&labelColor=white&color=4e3629) 
 
