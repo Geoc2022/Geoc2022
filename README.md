@@ -2,7 +2,7 @@
 
 ![CS + Math @ Brown University](https://img.shields.io/badge/CS%20%2B%20Math-@Brown%20University-blue?style=for-the-badge&labelColor=white&color=4e3629) 
 
-I'm a junior at Brown University studying Computer Science and Mathematics, with current interests in cryptography, deep learning, and formal proof verification. You can find more cool stuff and writeups on my website linked bellow.
+I'm a senior at Brown University studying Computer Science and Mathematics, with current interests in cryptography, deep learning, and formal proof verification. You can find more cool stuff and writeups on my website linked bellow.
 
 [![Email Badge](https://img.shields.io/badge/Email-ea4336?style=flat-square)](mailto:george_chemmala@brown.edu) [![Linkedin Badge](https://img.shields.io/badge/Website-0474b3?style=flat-square&logo=Linkedin&logoColor=white)](https://george.chemmala.com/) 
 
