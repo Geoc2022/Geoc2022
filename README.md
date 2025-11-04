@@ -4,7 +4,7 @@
 
 I'm a senior at Brown University studying Computer Science and Mathematics, with current interests in cryptography, deep learning, and formal proof verification. You can find more cool stuff and writeups on my website linked bellow.
 
-[![Email Badge](https://img.shields.io/badge/Email-ea4336?style=flat-square)](mailto:george_chemmala@brown.edu) [![Linkedin Badge](https://img.shields.io/badge/Website-0474b3?style=flat-square&logo=Linkedin&logoColor=white)](https://george.chemmala.com/) 
+[![Email Badge](https://img.shields.io/badge/Email-ea4336?style=flat-square)](mailto:george_chemmala@brown.edu) [![Linkedin Badge](https://img.shields.io/badge/Website-0474b3?style=flat-square&logo=Linkedin&logoColor=white)](https://george.chemmala.com/) [![Dotfiles](https://img.shields.io/badge/dotfiles-3f3f46?style=flat-square&logo=apple&logoColor=white)](https://github.com/Geoc2022/dotfiles) 
 
 <!--
 **Geoc2022/Geoc2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
